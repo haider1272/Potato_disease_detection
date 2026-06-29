@@ -261,8 +261,6 @@ answer returned to the website.
 with the final layer replaced for 3-class output. Residual (skip)
 connections allow deep networks to train without vanishing gradients.
 
-*\[Insert Figure: ResNet-50 architecture\]*
-
 **Training configuration:**
 
   Hyperparameter   ResNet-50

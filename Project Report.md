@@ -2,7 +2,7 @@
 
 ### A Mobile and Web Application with RAG Chatbot Support for Gilgit-Baltistan Farmers
 
-**Submitted By:** ZUlqarnain haider
+**Submitted By:** Zulqarnain haider
 
 ------------------------------------------------------------------------
 
